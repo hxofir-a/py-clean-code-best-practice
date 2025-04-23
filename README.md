@@ -1,5 +1,5 @@
 # py-clean-code-review-best-practice
-Python cleaner code suggestions.
+Python cleaner code for review suggestions.
 
 To make a python file ready for review:
 1. run `touch ~/refined_{file_name}.log`.
